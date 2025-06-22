@@ -11,7 +11,7 @@
 <h2>📦 Project Description</h2>
 
 <p>
-This IoT-powered Soil Tester utilizes an <strong>ESP32</strong> microcontroller to measure soil <strong>Nitrogen (N)</strong>, <strong>Phosphorus (P)</strong>, and <strong>Potassium (K)</strong> levels using a <strong>non-contact NPK sensor</strong>. It displays real-time values on a <strong>20x4 I2C LCD</strong> and synchronizes data to <strong>Firebase Realtime Database</strong>, which is consumed by a custom-built <strong>Android app</strong> developed in Java using Android Studio.
+This IoT-powered Soil Tester utilizes an <strong>ESP32</strong> microcontroller to measure soil <strong>Nitrogen (N)</strong>, <strong>Phosphorus (P)</strong>, and <strong>Potassium (K)</strong> levels using an <strong>NPK sensor</strong>. It displays real-time values on a <strong>20x4 I2C LCD</strong> and synchronizes data to <strong>Firebase Realtime Database</strong>, which is consumed by a custom-built <strong>Android app</strong> developed in Java using Android Studio.
 </p>
 
 ---

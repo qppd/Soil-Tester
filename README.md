@@ -79,30 +79,11 @@ This IoT-powered Soil Tester utilizes an <strong>ESP32</strong> microcontroller 
 
 ---
 
-<h2>📲 Android App</h2>
-
-<p>
-A custom Android app (Java + Firebase SDK) built in Android Studio reads live data from the same Firebase path. The app shows NPK values in a clean and responsive interface.
-</p>
-
-<ul>
-  <li>Built in Java (Android Studio)</li>
-  <li>Uses Firebase Realtime Database SDK</li>
-  <li>Displays updated NPK values in real time</li>
-</ul>
-
-> 🔐 Make sure Firebase rules allow read access for the app or secure it with proper auth.
-
----
-
 <h2>📁 Project Structure</h2>
 
 <pre>
 Soil-Tester/
-├── SoilTester_ESP32.ino
-├── AndroidApp/               # Optional: add Android app folder here
-│   ├── app/
-│   └── ...
+├── SoilTester.ino
 ├── README.md
 └── .gitignore
 </pre>

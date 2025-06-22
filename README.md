@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌱 Soil Tester with ESP32</h1>
-  <p><strong>Non-Contact NPK Sensor + 20x4 I2C LCD + Firebase + Android App</strong></p>
+  <p><strong>NPK Sensor + 20x4 I2C LCD + Firebase + Android App</strong></p>
   <img src="https://img.shields.io/badge/Platform-ESP32-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20By-QPPD-blueviolet?style=for-the-badge" />

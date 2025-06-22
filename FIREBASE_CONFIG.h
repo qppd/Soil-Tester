@@ -4,9 +4,9 @@
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
 
-#define FIREBASE_PROJECT_ID "soil-nutrifier"
-#define FIREBASE_WEB_API_KEY "AIzaSyDHFtWFW0xOv6jiHiJffhHLLQ9yfONYBJs"      // Firebase Web API Key
-#define FIREBASE_URL "https://soil-nutrifier-default-rtdb.firebaseio.com/"  // Firebase database URL
+#define FIREBASE_PROJECT_ID "" // Firebase Project Id
+#define FIREBASE_WEB_API_KEY ""      // Firebase Web API Key
+#define FIREBASE_URL ""  // Firebase database URL
 
 #define WIFI_SSID "QPPD"
 #define WIFI_PASSWORD "Programmer136"

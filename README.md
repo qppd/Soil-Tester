@@ -31,8 +31,8 @@ A soil nutrient tester powered by the **ESP32**, featuring a **non-contact NPK s
 |------------|-------|
 | VCC        | 5V    |
 | GND        | GND   |
-| TX         | RX (e.g., GPIO16) |
-| RX         | TX (e.g., GPIO17) |
+| TX         | RX (GPIO16) |
+| RX         | TX (GPIO17) |
 
 ### I2C LCD to ESP32
 

@@ -38,18 +38,6 @@ This IoT-powered Soil Tester utilizes an <strong>ESP32</strong> microcontroller 
       <td>20x4 I2C LCD</td>
       <td>Displays live NPK readings</td>
     </tr>
-    <tr>
-      <td>Wi-Fi Internet</td>
-      <td>Used to push readings to Firebase</td>
-    </tr>
-    <tr>
-      <td>Android App</td>
-      <td>Displays soil data from Firebase</td>
-    </tr>
-    <tr>
-      <td>Jumper Wires & Breadboard</td>
-      <td>For connecting all components</td>
-    </tr>
   </tbody>
 </table>
 
@@ -61,7 +49,7 @@ This IoT-powered Soil Tester utilizes an <strong>ESP32</strong> microcontroller 
   <li><strong>ESP32</strong> reads data from the NPK sensor via UART.</li>
   <li><strong>Data is displayed</strong> on a 20x4 LCD using the I2C interface.</li>
   <li><strong>Sensor values are uploaded</strong> to Firebase Realtime Database using <code>Firebase_ESP_Client</code>.</li>
-  <li><strong>Android app</strong> fetches and displays the data in a mobile-friendly UI.</li>
+  <li><strong>Android app</strong> fetches and displays the data in a mobile-friendly UI and suggests a plant perfect for the soil.</li>
 </ol>
 
 ---
